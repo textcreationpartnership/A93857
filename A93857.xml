@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a lady concerning the due improvement of her advantages of celibacie, portion, and maturity of age and judgment : which may serve indifferently for men under the same circumstances.</title>
+            <author>Stephens, Edward, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93857</idno>
+            <idno type="STC">Wing S5428A</idno>
+            <idno type="STC">ESTC R42770</idno>
+            <idno type="EEBO-CITATION">38875734</idno>
+            <idno type="OCLC">ocm 38875734</idno>
+            <idno type="VID">152414</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93857)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152414)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2296:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a lady concerning the due improvement of her advantages of celibacie, portion, and maturity of age and judgment : which may serve indifferently for men under the same circumstances.</title>
+                  <author>Stephens, Edward, d. 1706.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Religious Society of Single Women,</publisher>
+                  <pubPlace>[S.l.]</pubPlace>
+                  <date>[after 1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Attributed to Edward Stephens by Wing (2nd ed.).</note>
+                  <note>Advertisement: p. 8.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Religious life --  England --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:152414:1" rendition="simple:additions"/>
+            <head>A LETTER TO A LADY, <hi>Concerning the due Improvement of her Advantages of</hi> Celibacie, Portion, <hi>and Maturity of</hi> Age <hi>and</hi> Judgment: <hi>Which may ſerve indifferently for Men under the ſame Circumſtances.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>THE Conſideration of the <hi>Circumſtances,</hi> which the Good Providence of God (which is over all his Works, and extends to the moſt minute Concerns of the Children of Men) hath put you in, in this World; and of the <hi>Principles of Grace,</hi> which he hath planted in you, hath excited in me, <hi>firſt,</hi> The Affections of Good Will to you, and Deſires and Wiſhes, that you may wiſely improve the ſame, and go on to Perfection; and then ſome Thoughts of Endeavours to aſſiſt you, and offer you my Service in faith<g ref="char:EOLhyphen"/>ful Admonitions and Advices in order thereunto.</p>
+            <p>The <hi>Circumſtances,</hi> which I intend, are, 1. A State of <hi>Ce<g ref="char:EOLhyphen"/>libacie,</hi> or ſingle Life; and of Freedom from the Incumbe<g ref="char:EOLhyphen"/>rances and Diſtractions, and Avocations and Diverſions of a Married State. 2. A plentiful <hi>Portion</hi> of the Things of this
+<pb n="2" facs="tcp:152414:2"/>World; and Freedom from the Neceſſities of Labour for a Livelihood: And, 3. an Age of <hi>Maturity</hi> and Growth, not only above the Crudities of Youth, but above the Prevalence of the Affections of Fleſh and Blood, through Experience, and the Exerciſe of Reaſon, and the kind Influences and Irradi<g ref="char:EOLhyphen"/>ations of Grace.</p>
+            <p>And upon the Conſideration of theſe, I muſt immind you, and deſire you to conſider, and ruminate upon it: 1. That you are no ſelf-ſubſiſtent Being, but a dependent Creature, in your Natural State; and beſides, you are not your own, you <hi>are bought with a Price,</hi> and redeemed out of a State of miſer<g ref="char:EOLhyphen"/>able Slavery, in order to be tranſlated into a glorious and bleſſed State in the Kingdom of Heaven; if you ſuffer not your ſelf to be cheated, allured or frighted, out of it; but <hi>fight the good Fight,</hi> and ſtrive lawfully. 2. That theſe Advantages are <hi>Talents</hi> committed to your Management and Improve<g ref="char:EOLhyphen"/>ment; and that you have a Lord, (this Lord who hath bought you, and redeem'd you) to whom you muſt give Account for the ſame; you muſt <hi>appear before the Judgment-Seat of Christ, and receive the things done in the Body, according to that you have done, whether it be Good or Bad,</hi> 2 Cor. 5.10.3. That you live, not only in a <hi>Wicked World,</hi> but in a more than ordinary <hi>degenerate Age,</hi> and <hi>wicked Generation,</hi> wherein not only the Manners, but the Sentiments and Notions of Men, and even ſuch as ſhould be Teachers, and Examples of Righ<g ref="char:EOLhyphen"/>teouſneſs and Holineſs, are greatly corrupted, much after the manner that they were among the <hi>Jews,</hi> at our Saviour's Coming in the Fleſh. 4. That the <hi>Wiſdom of the World</hi> is Fooliſhneſs with God; and therefore, if we will be wiſe in<g ref="char:EOLhyphen"/>deed, we muſt not be conformed unto it, but be transformed by the Renewing of our Mind, that we may prove, and cu<g ref="char:EOLhyphen"/>riouſly diſcern, in thoſe things which the blind World cannot ſee, what is that good, and acceptable, and perfect Will of God; that after we have eſcaped the groſs Pollutions, we be not inſnared with more ſubtle Tentations. 5. That our Saviour
+<pb n="3" facs="tcp:152414:2"/>hath diſtinguiſhed <hi>Two ſorts of his Diſciples:</hi> one of thoſe who build upon the Sand, who make great Profeſſion, but do no<g ref="char:EOLhyphen"/>thing; the other of thoſe, who do whatſoever he commands: and that <hi>the Terms of the Goſpel</hi> are ſuch, That without for<g ref="char:EOLhyphen"/>ſaking all, and taking up the Croſs, (whereof bearing Re<g ref="char:EOLhyphen"/>proach, and Cenſures of the World, and even of Friends and Relations, is but the firſt ſtep) there is no being his Diſciple; no Purchaſe of the hidden Treaſure, and Pearl of great Price, without ſelling all for it. 6. That the Goodneſs and Favours of God, and the Greatneſs of his Reward hereafter, do infinitely exceed all that we can do or ſuffer for Him here: nay, the very Foretaſtes here do far exceed all the Enjoyments of this World, and more than countervail all that we can part with or ſuffer here. 7. That of the Good things of this World, there is a far nobler Uſe to be made by the Wiſe, than Enjoyment of them, <hi>viz.</hi> by Sacrificing that to the Service and Honour of our Lord, as the Spiritual Free-will-Offerings of the Goſpel. 8. That ſuch Miſcarriages and Improvidence, as ſhall not utterly exclude from the Kingdom of Heaven, may yet be Matter of much Ingratitude to our Lord, great Hinderances of Grace and Comfort here, and Occaſions of Loſs, and of Diminution of Reward hereafter.</p>
+            <p>When you have well conſidered and digeſted theſe Truths, till they have ſtirred up the Grace of God in you, that you may abound in good Spirits, good Reſolution, and quick Un<g ref="char:EOLhyphen"/>derſtanding in the Fear of the Lord, it will be fit then to con<g ref="char:EOLhyphen"/>ſider, <hi>How theſe Talents and Advantages</hi> may be beſt imployed, and <hi>improved</hi> for the Honour and Service of your Lord, and the Advancement of your ſelf in Holineſs and Comfort here, and Happineſs and Glory hereafter.</p>
+            <p>And, <hi>firſt,</hi> the State and Condition of <hi>Celibacie,</hi> whether of Virginity or Widow-hood, when it comes to be Voluntary, and of Choice and Preference, (to which our wiſe Governour, by his ſecret Conduct, doth often bring Souls by degrees) hath the Approbation of our Saviour, of the Holy Scriptures, and
+<pb n="4" facs="tcp:152414:3"/>hath always been eſteemed very Honourable in the Chriſtian Church, and believ'd to be Matter of great Reward hereafter. It is true, it is not Matter of ſtrict Obligation to all; nor could it be; becauſe inconſiſtent with the Propagation of Mankind; but very often when Souls are come to good Maturity in Spiri<g ref="char:EOLhyphen"/>tual things, they have ſuch evident Calls to it, both by the ſpecial Providence, and by Motions of the Grace of God, as lay a <hi>ſpe<g ref="char:EOLhyphen"/>cial Obligation</hi> upon Them, and which They cannot break through; but they run themſelves into the Briers, and into inextricable Difficulties, which makes them experiment the Ac<g ref="char:EOLhyphen"/>compliſhment of St. <hi>Paul</hi>'s Prediction; whereof I have known divers remarkable Examples. It is therefore both Prudence, and a noble Act of Gratitude and Devotion, upon true Principles, to embrace and follow St. <hi>Paul</hi>'s Advice and Reſolution, upon <hi>mature Deliberation</hi> of the Caſe, 1 <hi>Cor.</hi> 7.1, 8, 25, 26, 29. and what he ſo earneſtly preſſeth elſewhere, to preſent our Bodies a living Sacrifice, holy, acceptable unto God. It muſt be upon right Principles, and for a right End, which is expreſſed by St. <hi>Paul,</hi> by taking <hi>care for the things of the Lord, how you may pleaſe the Lord,</hi> v. 32. and v. 35. for <hi>that which is comely, and that you may attend upon the Lord without diſtraction:</hi> for otherwiſe, neither will it be accepted with God, who looks principally at the Heart and Intention; nor will it be like to continue with any Comfort and good Succeſs to your ſelf: And it muſt be imployed to that end; by Abſtraction from unneceſſary Viſits, unprofitable Converſation, and impertinent Employments, and Retirement for Spiritual Exerciſes, the Worſhip of God in Publick, and Works of Charity to Men.</p>
+            <p>And this brings us to the Conſideration of the <hi>Second</hi> of thoſe Advantages before-mentioned, your Talent of the <hi>Portion</hi> of the Things of this World, which you have received. The <hi>True <g ref="char:V">Ʋ</g>ſe of External things</hi> is, in my Apprehenſion, as little underſtood in this Age as ever. The Advice, which I would recommend concerning it, is this, to <hi>exerciſe your ſelf to need as little of the World as may be:</hi> This is done by Abſtinence
+<pb n="5" facs="tcp:152414:3"/>from the Uſe of all that can well be ſpared, and is not very ne<g ref="char:EOLhyphen"/>ceſſary. And it hath theſe Advantages to recommend it. 1. It is a Means to acquire a more abſolute Dominion of the Soul over the Body. 2. When it is done for that Purpoſe, and in order to the more compleat Subjection of the whole Man to God; it is an Act of the great Buſineſs of our Lives, and a reaſonable Sacrifice, acceptable to God. 3. It will come into Account for Recompence and Augmentation of Reward hereafter. 4. It will make our Lives more eaſie, and more eaſily provided for here. 5. It is an Imitation and Recommendation of the Ex<g ref="char:EOLhyphen"/>ample of our Saviour, and his Diſciples of old, and a Payment of due Honour and Reſpect to them. 6. It is a kind of fighting the Lord's Battles, by oppoſing a very conſiderable Stratagem of the Enemy, <hi>viz.</hi> to diſtract and incumber us with Cares about Unneceſſary things, by raiſing Emulation in Peoples Minds for them: whereas, whoever in Fact doth contribute to the Re<g ref="char:EOLhyphen"/>commendation of theſe things, doth the Devil's Work, expoſing his Wares, promoting his Policies, and encouraging and height<g ref="char:EOLhyphen"/>ening that Emulation; whatever he may pretend or intend for the Service of God. 7. It doth promote us to the neareſt Approaches to the Angelick State, that our Mortality can bear. 8. It is a ready way to obtain more excellent Enjoyments of Spiritual Conſolations, Graces, and Fore-taſtes of Heaven while we live upon Earth.</p>
+            <p>
+               <hi>Secondly,</hi> As we muſt be provident that our Maſter's Talent be not waſted, ſo we muſt be prudent and ſtudious that it may be well imployed, and improved for our Maſter's Service; that if we be Rich in this World, we be proportionably Rich to<g ref="char:EOLhyphen"/>wards God; Rich in good Works, Rich in Treaſure laid up in Heaven, where even a Cup of cold Water given to a Diſciple, in the Name of a Diſciple, ſhall be remembred and rewarded. This is a Matter ſo abundantly inculcated in the Goſpel, and in the Exhortations and Examples of the Chriſtians of after-Ages, declaring the Danger of Riches, and directing how to uſe and beſtow them in order to Perfection and Happineſs hereafter;
+<pb n="6" facs="tcp:152414:4"/>recommending Contempt of the World, and Heavenly-minded<g ref="char:EOLhyphen"/>neſs; and obliging all Chriſtians, at their firſt Initiation by Baptiſm, to renounce the World, and the Pomps and Vanities thereof; that the Gloſſes, Shifts, and Evaſions, wherewith too many of our Teachers impoſe upon themſelves, abuſe others, and, as the Phariſees heretofore, make the Word of God, the Precepts of the Goſpel, and the illuſtrious Examples, if not of our Saviour Himſelf, yet of his Saints, deſigned, no leſs than the Precepts, for our Inſtruction, not only of none effect, but even ſlighted, deſpiſed, contemned and reproached, as Monkery and Melancholy, or calculated only for Times of Perſecution, (tho' Times of Proſperity do moſt need ſuch Admonitions) that if well conſidered it is a ſad Inſtance of the Degeneracy and Cor<g ref="char:EOLhyphen"/>ruption of this Age, and does deſerve good Conſideration, and great Reſolution, that we be not carried away with the Stream, if not to Deſtruction; yet to the Obſtruction of our Graces, and to our Loſs, and diminution of that full Reward hereafter, which is of far greater Concern to us than this World, and all that is therein. But to a Perſon of your Parts, and Progreſs in the ſtudy of Religion, and diſpoſition to it, I hope I need not farther inlarge upon it. And for the Practice of it, I know not what can be propoſed more proper than the PROPOSAL, whereof a few Copies were lately Printed, and one of them is here in<g ref="char:EOLhyphen"/>cloſed.</p>
+            <p>The <hi>Third</hi> Advantage doth greatly inhance the Obliga<g ref="char:EOLhyphen"/>tions of the other <hi>Two,</hi> by ſetting ſuch Perſons above the Ex<g ref="char:EOLhyphen"/>cuſes of ſuch, as have not yet arrived to that Maturity of Judg<g ref="char:EOLhyphen"/>ment and Command of themſelves; and by qualifying Them for the good Uſe and Improvement of them for the Service of God, and their own Benefit and Advancement in Grace and Vertue here, and Happineſs hereafter.</p>
+            <p>Againſt this, which hath been ſaid, Fleſh and Blood (if we conſult with Them) will certainly Object, and the Spi<g ref="char:EOLhyphen"/>rit, which rules in the Children of Diſobedience (if we will hearken to Him) will as certainly Suggeſt, all that can with
+<pb n="7" facs="tcp:152414:4"/>any Colour or Appearance be alleadged. But if you will ad<g ref="char:EOLhyphen"/>here to Reaſon, if you will believe the Revelation of the Scripture, if you will attend to our Saviour's Admonitions and Example, and if you will gratefully imbrace and faith<g ref="char:EOLhyphen"/>fully follow the Conduct of the good Spirit; the firſt will ſatisfie you that Future things of great Importance and Du<g ref="char:EOLhyphen"/>ration, are to be preferred before mean and tranſitory Enjoy<g ref="char:EOLhyphen"/>ments; and to be ſecured at any Rate, though with Loſs and Suffering here: The Apoſtle will inform you, That <hi>the Sufferings of this preſent time are not worthy to be compared with the Glory, which ſhall be revealed in us,</hi> (Rom. 8.18.) and that <hi>our light Affliction, which is but for a Moment, worketh for us a far more Exceeding and Eternal Weight of Glory,</hi> 2 Cor. 4.17. Our Saviour will aſſure you, That the ſtraight way of the Croſs, is the high-way to the Crown; and that not only what is given for Him, but alſo what is forſaken for Him, ſhall be rewarded and recompenced hereafter, and even in this preſent time an Hundred fold, <hi>Mar.</hi> 10.30. full and overflowing Meaſure, <hi>Luk.</hi> 6.38. and he hath furniſhed you with an Anſwer to all that can be ſaid, though out of the Mouth of an Apoſtle, <hi>Get thee behind me Satan; thou art an Offence unto me; for thou ſavoureſt not the things that be of God, but thoſe that be of men,</hi> Mat. 16.23. for, in ſuch Caſe, it is not they that ſpake, but the Spirit of Satan and of the World, that ſpaketh in them, (<hi>v. Mat.</hi> 10.20.) And that Bleſſed Spirit will enlighten your Mind to diſcern, and after it hath tryed your Fidelity, give you experimental Fore-taſtes to Feel, and at laſt conduct you to the Poſſeſſion and full Fruition of that tranſcendent Bliſs, which <hi>Eye hath not ſeen, nor Ear heard, neither have entred into the Heart of Man the things that God hath prepared for them that love him,</hi> 1 Cor. 2.9. the very Fore-taſtes whereof do often render the Enjoyments of this World, not only mean and deſpicable, but tedious, nauſeous, and a Burthen to experienced and holy Souls. <hi>Chriſtianity</hi> is indeed a Myſtery, and a Riddle, to exclude unworthy
+<pb n="8" facs="tcp:152414:5"/>Souls: but it is a Rich Treaſure, and a Precious Jewel, to ſuch as will come up to the Price of it. True Chriſtians, as to themſelves, may laugh in their Sleeves at the Enjoyments of others: but Charity makes them pity and commiſerate their Blindneſs and Errour. <hi>Wherefore, ſave your ſelves from this untoward Generation, and come out from among them, and be ye ſeparate, ſaith the Lord, and touch not the un<g ref="char:EOLhyphen"/>clean thing, and I will receive you; And will be a Father unto you, and ye ſhall be my Sons and Daughters, ſaith the Lord Almighty,</hi> 2 Cor. 6.17, 18.</p>
+            <p>This is what it pleaſed God to put into my Mind for your Service, and for his Service; and I wiſh it a happy Succeſs for both. Be wiſe, look to your Call, and neglect not the Ad<g ref="char:EOLhyphen"/>monition.</p>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>THe PROPOSAL mentioned in this Letter, is, <hi>For the Accommodation of ſome</hi> Devout Women, <hi>with ſuch mean, but convenient</hi> Habitation, Work, Wages, <hi>and</hi> Relief, <hi>that they may have Time and Strength for the</hi> Worſhip of GOD, <hi>both in</hi> Publick <hi>and</hi> Private, <hi>and Freedom of Mind for</hi> Meditation, <hi>and</hi> Religious Exerciſes, <hi>while their Hands are Imploy'd for</hi> Maintenance <hi>of the</hi> Body; <hi>and that while they enjoy the benefit of ſuch Accommodations for their own</hi> Souls, <hi>their</hi> Benefactors, <hi>and the</hi> Church <hi>and</hi> Nation <hi>may be benefited by their</hi> conſtant Prayers.</p>
+            <p>The Author hath Written alſo a ſhort <hi>Diſcourſe concerning the Antiquity, Di<g ref="char:EOLhyphen"/>vine Approbation, and high Eſteem, which hath always been had in the Catholick Church, of a Religious Life Abſtracted from the World;</hi> but it is not yet Printed.</p>
+            <p>He hath alſo begun <hi>to put his Propoſal into Practice,</hi> having, for that purpoſe, procured a Friend to take a Leaſe of a convenient Houſe of near 40 <hi>l. per Annum;</hi> his <hi>Deſign</hi> therein being to give an Experiment and Example of the great Uſe and Benefit thereof, and not meerly the Accommodation of one Twenty Women. This he hath begun in hope and confidence that there is yet ſo much real Piety and Charity left in this City, and eſpecially in this Sex, as not to ſuffer ſuch a <hi>Propoſal</hi> to come to nothing for want of Supplies, and become <hi>a Publick Teſtimony</hi> of the Barrenneſs and Inſincerity of the Religion profeſſed amongſt us, as <hi>another Good Work</hi> begun by him for <hi>the Reſtitution of the moſt Solemn Chriſtian Worſhip to its Integrity and juſt Frequency of a Daily Celebration,</hi> in proper Places, hath been for ſome time. And he wiſheth that People may be awakened by theſe <hi>Warnings,</hi> and extricate themſelves out of the Enchantments of the World, leſt they provoke ſome ſweeping <hi>Judgment</hi> to clear the Land of ſuch degenerate and fruitleſs Plants, as well as the groſſer Weeds.</p>
+         </div>
+         <div type="colophon">
+            <p>Printed for the Religious Society of <hi>Single Women.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
